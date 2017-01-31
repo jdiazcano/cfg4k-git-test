@@ -1,17 +1,17 @@
 {
-  "a": "b",
-  "c": "d",
-  "integerProperty": 1,
-  "longProperty": 2,
-  "shortProperty": 1,
-  "doubleProperty": 1.1,
-  "floatProperty": 2.1,
-  "byteProperty": 2,
-  "list": "1,2,3",
-  "floatList": "1.2,2.2,3.2",
+  "a": "productionb",
+  "c": "productiond",
+  "integerProperty": 11,
+  "longProperty": 12,
+  "shortProperty": 11,
+  "doubleProperty": 11.1,
+  "floatProperty": 12.1,
+  "byteProperty": 12,
+  "list": "11,2,3",
+  "floatList": "11.2,2.2,3.2",
   "booleanProperty": true,
-  "bigIntegerProperty": 1,
-  "bigDecimalProperty": 1.1,
+  "bigIntegerProperty": 11,
+  "bigDecimalProperty": 11.1,
   "dateProperty": "01-01-2017",
   "calendarProperty": "01-01-2017",
   "localDateProperty": "01-01-2017",
@@ -25,7 +25,7 @@
   "offsetTimeProperty": "18:01:31+01:00",
   "isoOffsetTimeProperty": "18:01:31+01:00",
   "nested": {
-    "a": "nestedb"
+    "a": "productionnestedb"
   },
   "toString": "this should not be ever used"
 }
